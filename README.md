@@ -104,12 +104,7 @@ Customize the metrics and query list in the script.
 ---
 
 ## 📌 Citation & Acknowledgement
-- 智谱AI GLM-4V-9B: [https://huggingface.co/collections/THUDM/glm-4](https://huggingface.co/collections/THUDM/glm-4)
+- GLM-4V-9B: [https://huggingface.co/collections/THUDM/glm-4](https://huggingface.co/collections/THUDM/glm-4)
 - Inspired by Fan et al. (2025): "MetalMind: A Knowledge Graph-Driven Human-Centric Knowledge System for Metal Additive Manufacturing"
 
 ---
-
-## 📫 Contact
-**Bill Zhang**  
-GitHub: [your-username]  
-Email: [your-email@example.com]
