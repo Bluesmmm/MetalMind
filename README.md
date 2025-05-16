@@ -1,19 +1,19 @@
-# MetalMind (GLM4V9B Version): A Knowledge Graph + RAG System for Metal AM
+# MetalMind: A Knowledge Graph + RAG System for Metal AM
 
-MetalMind is a human-centric, multimodal knowledge system that integrates a large-scale knowledge graph (KG), image retrieval, and retrieval-augmented generation (RAG) to support metal additive manufacturing (AM) training and decision-making. This version replaces OpenAI models with the GLM-4V-9B model (智谱AI) for all language and vision tasks.
+MetalMind is a human-centric, multimodal knowledge system that integrates a large-scale knowledge graph (KG), retrieval-augmented generation (RAG) to support metal additive manufacturing (AM) training and decision-making. 
 
 ---
 
 ## 🔧 Features
 
-- 📄 **PDF-to-Knowledge Graph**: Converts metal AM manuals into structured knowledge using GLM4V9B.
-- 🧠 **Entity & Relation Extraction**: GLM4V9B-based pipeline for schema-free ➝ schema-based KG creation.
+- 📄 **PDF-to-Knowledge Graph**: Converts metal AM manuals into structured knowledge using GLM-4V-9B.
+- 🧠 **Entity & Relation Extraction**: GLM-4V-9B-based pipeline for schema-free ➝ schema-based KG creation.
 - 🔗 **Neo4j Graph Storage**: All nodes and relationships stored in a traversable graph database.
 - 🔍 **Three-Mode Retrieval System**:
   - **Vector Retrieval** using FAISS and entity embeddings
   - **Graph Traversal Retrieval** via Neo4j
   - **Hybrid Retrieval** combining both
-- 🖼️ **Image Retrieval via GLM4V9B + LoRA**: Fine-tuned CLIP model with figure captions, enhancing diagram-based explanation and multimodal reasoning.
+- 🖼️ **Image Retrieval via CLIP + LoRA**: Fine-tuned CLIP model with figure captions, enhancing diagram-based explanation and multimodal reasoning.
 - 📊 **Evaluation Metrics**: Support for faithfulness, answer precision, rubric scores, and token-efficiency tracking.
 - 🌐 **Streamlit Web App**: Visual interactive front-end for testing text/image queries.
 
@@ -24,7 +24,7 @@ MetalMind is a human-centric, multimodal knowledge system that integrates a larg
 ```bash
 .
 ├── preprocess.py              # PDF to markdown + chunking
-├── build_kg_neo4j.py          # GLM4V9B-based KG construction, writes to Neo4j
+├── build_kg_neo4j.py          # GLM-4V-9B-based KG construction, writes to Neo4j
 ├── postprocess.py             # Entity cleanup, deduplication
 ├── neo4j_handler.py           # Neo4j API abstraction
 ├── rag_vector.py              # Vector-based retrieval
@@ -95,7 +95,7 @@ Customize the metrics and query list in the script.
 - Python 3.10+
 - Neo4j
 - FAISS
-- HuggingFace Transformers (GLM4V9B)
+- HuggingFace Transformers (GLM-4V-9B)
 - PyMuPDF
 - sentence-transformers
 - peft, bitsandbytes
