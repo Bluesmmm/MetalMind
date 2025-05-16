@@ -91,18 +91,6 @@ Customize the metrics and query list in the script.
 
 ---
 
-## 📚 Requirements
-- Python 3.10+
-- Neo4j
-- FAISS
-- HuggingFace Transformers (GLM-4V-9B)
-- PyMuPDF
-- sentence-transformers
-- peft, bitsandbytes
-- Streamlit, scikit-learn, pandas, tqdm
-
----
-
 ## 📌 Citation & Acknowledgement
 - GLM-4V-9B: [https://huggingface.co/collections/THUDM/glm-4](https://huggingface.co/collections/THUDM/glm-4)
 - Inspired by Fan et al. (2025): "MetalMind: A Knowledge Graph-Driven Human-Centric Knowledge System for Metal Additive Manufacturing"
