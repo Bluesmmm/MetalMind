@@ -50,7 +50,7 @@ pip install -r requirements.txt
 ```
 
 ### 2. Prepare Data
-- Place your machine manual PDF in the root directory (e.g., `manual.pdf`)
+- Place your machine manual PDF in the root directory (e.g., `AM400.pdf`)
 - Prepare a CSV file `extracted_figures_with_paths.csv` with columns:
   - `Local Image Path`
   - `Caption`
