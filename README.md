@@ -74,7 +74,7 @@ streamlit run app.py
 
 ---
 
-## 🤖 Using GLM4V9B
+## 🤖 Using GLM-4V-9B
 This project relies on [`THUDM/glm-4v-9b`](https://huggingface.co/collections/THUDM/glm-4-665fcf188c414b03c2f7e3b7) for all natural language and multimodal tasks. You can:
 
 - Use it via HuggingFace Transformers (`transformers>=4.44`)
