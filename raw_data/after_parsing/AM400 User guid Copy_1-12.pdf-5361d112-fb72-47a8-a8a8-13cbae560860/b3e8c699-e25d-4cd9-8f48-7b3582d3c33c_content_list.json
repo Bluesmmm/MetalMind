@@ -1,0 +1,471 @@
+[
+    {
+        "type": "text",
+        "text": "Renishaw additive manufacturing: AM250 and AM400 laser melting systems ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/f872260d9b0098f7ef2e8168f4f0a106df986590e0f94bb8da668f871ce351df.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1 Disclaimer ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RENISHAW HAS MADE CONSIDERABLE EFFORTS TO ENSURE THE CONTENT OF THIS DOCUMENT IS CORRECT AT THE DATE OF PUBLICATION BUT MAKES NO WARRANTIES OR REPRESENTATIONS REGARDING THE CONTENT. RENISHAW EXCLUDES LIABILITY, HOWSOEVER ARISING, FOR ANY INACCURACIES IN THIS DOCUMENT. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 Trademarks ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RENISHAW and the probe symbol used in the RENISHAW logo are registered trade marks of Renishaw plc in the United Kingdom and other countries. apply innovation and names and designations of other Renishaw products and technologies are trade marks of Renishaw plc or its subsidiaries. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "All other brand names and product names used in this document are trade names, trade marks, or registered trade marks of their respective owners. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 Warranty ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Equipment requiring attention under warranty must be returned to your equipment supplier. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Unless otherwise specifically agreed in writing between you and Renishaw, if you purchased the equipment from a Renishaw company, the warranty provisions contained in Renishaw’s CONDITIONS OF SALE apply. You should consult these conditions in order to find out the details of your warranty but, in summary, the main exclusions from the warranty are if the equipment has been: ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "neglected, mishandled or inappropriately used; or modified or altered in any way except with the prior written agreement of Renishaw. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "If you purchased the equipment from any other supplier, you should contact them to find out what repairs are covered by their warranty. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4 Changes to equipment ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Renishaw reserves the right to change equipment specifications without notice. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.5 Patents ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Features of the AM250/AM400 additive manufacturing system, and other similar systems, are the subject of one or more of the following patents and/or patent applications: ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/d40b66b144e208c870631ac451c3c81c3767895579a257e441314e87ab0dbcec.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>CA 2010/007394</td><td>CN 102164696</td><td>EP 2323787</td><td>JP 5514210</td><td>US 2010/007396</td></tr><tr><td>CA 2010/007396</td><td>CN 102186554</td><td>EP 2318164</td><td></td><td>US 2010/026397</td></tr><tr><td>CA2010/026396</td><td>CN 103357874</td><td>EP 2331232</td><td></td><td>US 2014/0287080</td></tr><tr><td>CA 2010/026397</td><td></td><td>EP 2342042</td><td></td><td>US 8753105</td></tr><tr><td></td><td></td><td>EP 2620241</td><td></td><td>US 8794263</td></tr><tr><td></td><td></td><td>EP 2687305</td><td></td><td></td></tr></table></body></html>\n\n",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.6 WEEE directive ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The use of this symbol on Renishaw products and/or accompanying documentation indicates that the product should not be mixed with general household waste upon disposal. It is the responsibility of the end user to dispose of this product at a designated collection point for waste electrical and electronic equipment (WEEE) to enable reuse or recycling. Correct disposal of this product will help to save valuable resources and prevent potential negative effects on the environment. For more information, please contact your local waste disposal service or Renishaw distributor. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ec97ae1967b4c64fad7069d9e04bcf3779bbbda01bf1ee1fa13706d74c9c1994.jpg",
+        "img_caption": [
+            "WEEE symbol "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.7 EC declaration of conformity ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Renishaw plc declares that the AM250/AM400 complies with the applicable standards and regulations. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Renishaw plc hereby declares that the AM250/AM400 is in compliance with the essential requirements and other relevant provisions of Directive 1999/5/EC. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Contact Renishaw plc or visit www.renishaw.com/am400 for the full EC declaration of conformity. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.8 FCC information to user (USA only) ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.8.1 47CFR section 15.21 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The user is cautioned that any changes or modifications not expressly approved by Renishaw plc or authorised representative could void the user’s authority to operate the equipment. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.8.2 47CFR section 15.105 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This equipment has been tested and found to comply with the limits for a Class A digital device, pursuant to part 15 of the FCC Rules. These limits are designed to provide reasonable protection against harmful interference when the equipment is operated in a commercial environment. This equipment generates, uses, and can radiate radio frequency energy and, if not installed and used in accordance with the instruction manual, may cause harmful interference to radio communications. Operation of this equipment in a residential area is likely to cause harmful interference in which case the user will be required to correct the interference at his own expense. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The following section gives details of the equipment supplied with the system, and the equipment available as options. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1 Summary ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The Renishaw additive manufacturing process creates homogeneous solid metal components, using high-powered laser energy to melt fine powder, manufacturing parts directly from 3D CAD data. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "This manual covers basic system operation and the relevant safety procedures for many commercially available materials. Users should be aware that raw materials used by the system require tightly controlled safety and handling protocols to be adhered to. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Additionally, the system must only be operated by staff who have followed a Renishaw approved training course, and in accordance with the instructions and advice contained in this manual. If in doubt about the particular requirements of the Renishaw AM250/AM400 system for a specific material, please contact us for advice and guidance. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2 Equipment ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Standard equipment ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Renishaw AM250/AM400 additive manufacturing system   \nChiller – two sizes depending upon AM system supplied   \nDehumidifier – AM400 only   \nChiller fitting kit   \nAM250/AM400 User guide – H-5800-0704   \nAM250/AM400 Site preparation guide – H-5800-0838   \nOperator training documentation   \nStarter kit   \nCommissioning kit ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "AM250/AM400 user guide ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Powder bottle kit with three small powder bottles with valves (A1) and one large overflow bottle   \nwith valve (B1)   \nAdditional safe change filter assembly   \nFile preparation software (for example Renishaw QuantAM or Materialise Magics™) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Required accessories ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Powder conditioning system for material sieving   \nATEX vacuum cleaner (wet separator)   \nMetal powder bottles   \nComputer for offline file preparation   \nMetal powder   \nArgon gas supply (cylinder, bank or liquid) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Optional items ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Furnace   \nBead blast unit   \nReplacement sieve mesh   \nAdditional material silo   \nAdditional material doser   \nAdditional safe change/large safe change filter assembly   \nAdditional material bottles and valves   \nAdditional software modules ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Our equipment is sold subject to the terms and conditions of sale supplied with your purchase of the system; or available on request from your local Renishaw office. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "www.renishaw.com/en/contact ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1 Spare parts ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "All components and sub-assemblies are subject to rigorous quality control. Components purchased from sub-suppliers, such as ball bearings, electric motors or hydraulic cylinders, are supplied in accordance with Renishaw specifications. Renishaw will not honour any warranty claims where faults arise due to non-OEM replacement parts being fitted. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "When ordering spare parts please quote the following: ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Description of the spare and its part number, if known   \nEquipment name and model   \nSerial number   \nYear of manufacture ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Details can be found on the serial plate on the rear of your system, see Section 5 \"Contact details\". ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Spare parts should be ordered from your local Renishaw office. See: ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "www.renishaw.com/en/contact ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "For details of your nearest local Renishaw office. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "See Section 35 Appendix B – \"Part numbers of spares\" for information about the most commonly used spare parts. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Caution: Renishaw strongly recommend that only Renishaw supplied parts are fitted to the AM250/AM400 system. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The Renishaw AM250/AM400 is a complex piece of manufacturing equipment and must be used correctly to ensure optimum performance. It must not be used by untrained staff who have not completed a Renishaw approved training course. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.1 Definitions ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The following definitions are used throughout this manual: ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/1024916e76ec560bd6c972c589d37929b93823d5c341c9f076933b6ea1a30f79.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>Term</td><td>Definition</td></tr><tr><td>Client or end user</td><td>The company responsible for purchasing or using the equipment</td></tr><tr><td>Supervisor</td><td>An individual or individuals who is/are ultimately responsible for ensuring the safe operation and maintenance of the equipment</td></tr><tr><td>Operator</td><td>An individual or individuals working for the client or end user who is/are competent to operate,maintain and clean the equipment safely.This is because they have been formally trained and assessed in the individual tasks required</td></tr><tr><td>Technician</td><td>An operator who is qualified to carry out a particular aspect of maintenance.This is because they have been formally trained and assessed in the individual tasks required</td></tr><tr><td>Equipment</td><td>The scope of supply from Renishaw that the client has purchased</td></tr><tr><td>Ancillary equipment</td><td>Any item which is required to complete the installation that is not included in the scope of supply</td></tr><tr><td>Manufacture or manufacturing</td><td>Is any process where the equipment is commissioned, trialled, operated, maintained or cleaned</td></tr><tr><td>Must</td><td>Tasks,actions or activities that are essential for the safe operation of the system</td></tr><tr><td>Should</td><td>Tasks,actions or activities that are recommended for the safe operation of the system</td></tr></table></body></html>\n\n",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.2 Abbreviations ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/7666d90f769480c0798530beef1686ffdcd33ffa60b7ce864fe1acf92a06fbcf.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>Term</td><td>Definition</td></tr><tr><td>AM</td><td>Additive Manufacturing</td></tr><tr><td>ATEX</td><td>ATmosphéres EXplosives (explosive atmospheres)</td></tr><tr><td>COSHH</td><td>Control of Substances Hazardous to Health</td></tr><tr><td>DSEAR</td><td>Dangerous Substances and Explosive Atmospheres Regulations</td></tr><tr><td>EMC</td><td>Electro-Magnetic Compatibility</td></tr><tr><td>HMI</td><td>Human Machine Interface (touch screen)</td></tr><tr><td>IEE</td><td>Institute of Electrical Engineers (or local governing body)</td></tr><tr><td>IPA</td><td>Isopropanol Alcohol</td></tr><tr><td>ISO</td><td>International Organisation for Standardisation</td></tr><tr><td>LED</td><td>Light Emitting Diode</td></tr><tr><td>MCB</td><td>Miniature Circuit Breaker</td></tr><tr><td>PC</td><td>Personal Computer</td></tr><tr><td>PLC</td><td>Programmable Logic Controller</td></tr><tr><td>PPM</td><td>Parts Per Million</td></tr><tr><td>PV</td><td>Present Value</td></tr><tr><td>SDS</td><td>Safety Data Sheet</td></tr><tr><td>SOP</td><td>Standard OperatingProcedure</td></tr><tr><td>SP</td><td>Set Point</td></tr></table></body></html>\n\n",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.3 Text structure ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The following structure has been used throughout this manual: ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The names of menus, buttons, options, icons, check boxes, functions, names of input fields and hot keys are written in bold.   \nProgram windows, parameters, settings for controls, system messages, signals, paths, file names, software names, areas of the screen and operating modes are written in italics. Controls and function keys are written between <angled brackets>.   \nWildcards for filenames are written in <angled brackets> and in italics. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.4 Safety warnings in this manual ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Within this user guide additional information that is important to read and understand will be presented as a Warning, Caution or Note. The defiinition of each of these and an example of each is below. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Example Warning: ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "WARNING: A WARNING IS TO TELL THE END USER THAT THERE IS A POSSIBILITY OF INJURY TO THEMSELVES OR OTHER PEOPLE IN THE VICINITY, IF THE DESCRIBED COURSE OF ACTION IS NOT FOLLOWED. A WARNING WILL BE IN UPPER CASE BOLD TEXT. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Example Caution: ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Caution: A Caution is to tell the end user that there is a possibility of damage to the equipment if the described course of action is not followed. A Caution will be in sentence case bold text ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Example Note: ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Note: A Note is to advise the end user of important information that is related to, or will assist them in the task or activity they are carrying out. A Note will be in sentence case medium text. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The following Warning labels are fitted to the AM250/AM400 system: ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/7035f2220656db554b2a49df11e5ecdd333fe4861a1e3a6fdb01807ed40eb467.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.5 Training schedule ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Renishaw provides a basic level of training to operate the equipment safely. Renishaw also offers extended training courses for operators and process engineers. Please refer to this manual and the training documentation supplied as part of the user training course that all users must complete before using the AM250/AM400 system. ",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/4b71d5ae2ed71c66e96997b4f44484e875f011df5877e37e6f72b2f816ca79a4.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>Phone number</td><td>+44 (0) 1785 285 000 Hours of work: Monday to Friday 08:00 to 17:00 hr BST (British summer time)</td></tr><tr><td>Email</td><td>am.support@ renishaw.com</td></tr><tr><td>Service address</td><td>Renishaw plc Brooms Road, Stone Business Park, Stone Staffordshire, ST15 0SH United Kingdom</td></tr></table></body></html>\n\n",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/6cad56e8baf94f453b2734ade37c768026a4e8aadb82baaf5222f5a8dddc1abb.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>1. System type</td><td></td></tr><tr><td>2. System serial number</td><td></td></tr><tr><td>3. System part number</td><td></td></tr><tr><td>4. Software version numbers</td><td></td></tr><tr><td>HMI revision</td><td></td></tr><tr><td>PLC revision</td><td></td></tr><tr><td>PC revision</td><td></td></tr></table></body></html>\n\n",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Please quote the details above: ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The system serial number plate can be found on the rear of the system (Figure 1)   \nThe system part number:   \nAM250 200 W\t A-5774-0001   \nAM250 400 W\t A-5771-0100   \nAM400 A-6252-0001   \nThe system software version on the start screen (Figure 2) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Additional support can be sought by contacting your local Renishaw office. See: ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/38b0eb8bcd653c783086372eae8e6d1288082e575b904f32ed54f1d2e6194f3f.jpg",
+        "img_caption": [
+            "Figure 1 Build information – AM250 (l) and AM400 (r) "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/62a3651511856ef4d0023df28d2d54a67e8b3aafa192c5a64af32d67a79f6853.jpg",
+        "img_caption": [
+            "Figure 2 Software welcome screen – AM250 (l) and AM400 (r) "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    }
+]
