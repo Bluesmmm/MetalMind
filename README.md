@@ -1,3 +1,4 @@
+# 2025.6.6更新： 现在kg_prompt和build_kg_neo4j.py正在修改，以达到3k实体和8k关系的数量，修改均在本地进行，修改后上传到github
 # MetalMind: A Knowledge Graph + RAG System for Metal AM
 
 MetalMind is a human-centric, multimodal knowledge system that integrates a large-scale knowledge graph (KG), retrieval-augmented generation (RAG) to support metal additive manufacturing (AM) training and decision-making. 

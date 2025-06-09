@@ -2,7 +2,7 @@ import os
 import json
 from transformers import AutoTokenizer, AutoConfig
 
-CHUNK_SIZE = 600
+CHUNK_SIZE = 300
 CHUNK_OVERLAP = 100
 INPUT_ROOT = "../raw_data/after_parsing"
 OUTPUT_JSON = "chunk_data.json"
@@ -13,7 +13,7 @@ def find_all_full_md(root_dir):
             if file == "full.md":
                 yield os.path.join(root, file)
 
-def chunk_text(text, tokenizer, chunk_size=600, overlap=100):
+def chunk_text(text, tokenizer, chunk_size=300, overlap=100):
     tokens = tokenizer.encode(text)
     chunks = []
     for i in range(0, len(tokens), chunk_size - overlap):
