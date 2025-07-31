@@ -32,11 +32,10 @@
 │   └── raw/ + chunked md/pdf    # 原始和切分后的 AM 文档
 ├── utils/
 │   └── api.py                   # 存放 API Key（如 ZhipuAI）
-├── evaluate.py                  # 模型评估脚本（BLEU、Recall）
-├── build_chunk_data.py          # Tokenizer 分块脚本
+├── evaluate.py                  # 模型评估脚本（BLEU、Recall等）
+├── build_chunk_data.py          # 分块脚本
 ├── clean_chunk_data.py          # Chunk 内容清洗器
 ├── vector_embeddings/           # 向量索引与元数据（embeddings.npy + metadata.json）
-├── chat_history/                # 保存对话历史
 ```
 
 ---
@@ -95,6 +94,12 @@ streamlit run app.py
 ```python
 api_key = "YOUR_ZHIPUAI_API_KEY"
 ```
+
+---
+
+## 🌟 界面预览
+
+![Streamlit Screenshot](docs/demo_screenshot.png)
 
 ---
 
