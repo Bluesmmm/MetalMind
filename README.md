@@ -44,7 +44,7 @@
 ## 🚀 快速开始
 
 ### 1. 安装依赖
-
+⚠️ 本项目建议 Python >= 3.9，且使用 CUDA 环境以支持 CLIP 多模态模型。
 ```bash
 pip install -r requirements.txt
 # 包括 transformers, faiss, peft, neo4j, streamlit, zhipuai, etc.
