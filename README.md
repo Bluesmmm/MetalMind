@@ -99,8 +99,8 @@ api_key = "YOUR_ZHIPUAI_API_KEY"
 
 ## 🌟 界面预览
 
-![Thinking Process](app/thinking.png)
-![Answering Process](app/hybrid.png)
+![Thinking Process](https://github.com/Bluesmmm/MetalMind/raw/main/app/thinking.png)
+![Answering Process]([app/hybrid.png](https://github.com/Bluesmmm/MetalMind/raw/main/app/hybrid.png))
 
 ---
 
