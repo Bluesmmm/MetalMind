@@ -1,4 +1,4 @@
-# 🧠 MetalMind: Multi-Modal RAG System for Metal AM Domain
+# 🧠 MetalMind: Multi-Modal RAG System for Metal AM
 
 **MetalMind** 是一个专为金属增材制造（Metal Additive Manufacturing, Metal AM）领域定制的多模态检索增强生成系统，集成了文本、图谱、图像三种模态的信息源，支持面向工业文档的智能问答、图谱可视化、图像检索与多轮对话能力。
 
@@ -99,7 +99,8 @@ api_key = "YOUR_ZHIPUAI_API_KEY"
 
 ## 🌟 界面预览
 
-![Streamlit Screenshot](docs/demo_screenshot.png)
+![Thinking Process](app/thinking.png)
+![Answering Process](app/hybrid.png)
 
 ---
 
