@@ -62,7 +62,7 @@ def evaluate_pipeline(pipeline, evalset, name="HybridRAG", result_csv="eval_resu
             "ContextRecall": recall,
             "ContextTokens": context_token_len,
             "AnswerTokens": answer_token_len,
-            "Paths": json.dumps(paths, ensure_ascii=False)  # 空也无妨，保持格式统一
+            "Paths": json.dumps(paths, ensure_ascii=False) 
         })
 
     df = pd.DataFrame(results)
