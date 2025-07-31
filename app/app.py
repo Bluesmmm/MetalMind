@@ -1,3 +1,6 @@
+"""
+Input your own api key and your KG uesrname & password
+"""
 import sys
 import os
 import json
