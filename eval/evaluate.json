@@ -1,0 +1,403 @@
+[
+  {
+    "query": "What type of laser does the AM400 system use and what is its wavelength?",
+    "answer": "The AM400 uses a 400 W ytterbium fibre laser with a wavelength of approximately 1070 nm."
+  },
+  {
+    "query": "Before starting the laser melting process in the AM400, what essential preparation must be performed?",
+    "answer": "Ensure the build chamber is purged with inert gas before initiating the laser melting process."
+  },
+  {
+    "query": "What are two main exclusions from the AM400 equipment warranty?",
+    "answer": "The warranty excludes equipment that has been neglected, mishandled or inappropriately used, or has been modified or altered without Renishaw's prior written agreement."
+  },
+  {
+    "query": "What emergency procedure should be followed in case of fire during AM400 operation?",
+    "answer": "In case of fire, follow the general safety instructions and use a fire extinguisher suitable for metal powder fires."
+  },
+  {
+    "query": "What is the function of the chiller in the AM400 system?",
+    "answer": "The chiller maintains the appropriate cooling fluid temperature for the laser and other components during operation."
+  },
+  {
+    "query": "How can the user access the AM400 system’s front panel?",
+    "answer": "The AM400 system’s front panel can be accessed by opening the left-hand user access door."
+  },
+  {
+    "query": "Describe the process for loading metal powder into the AM400 using powder bottles.",
+    "answer": "Loading metal powder involves using powder bottles to transfer powder into the powder silo while following safety procedures."
+  },
+  {
+    "query": "What personal protective equipment should be worn when handling metal powders in the AM400?",
+    "answer": "Operators should wear personal protective equipment such as gloves, laboratory coat, and safety goggles when handling metal powders."
+  },
+  {
+    "query": "How does the AM400 system monitor oxygen levels during operation?",
+    "answer": "The AM400 uses oxygen monitoring sensors to ensure the oxygen level is within safe limits."
+  },
+  {
+    "query": "Describe in detail the full safety procedure for cleaning the AM400 build chamber after a print job, including personal protective equipment, powder handling, chamber venting, and waste disposal.",
+    "answer": "To clean the AM400 build chamber after a print job, first ensure the chamber is vented to atmospheric pressure. Wear all required personal protective equipment, including gloves, laboratory coat, and safety goggles. Handle any remaining metal powder with care, using approved tools to avoid spills. Collect residual powder for reuse or dispose of it in accordance with local safety regulations. Clean all chamber surfaces with appropriate cleaning agents. Dispose of all waste and cleaning materials safely, and record the cleaning activity in the maintenance log."
+  },
+  {
+    "query": "Which symbol on the AM400 indicates the presence of laser radiation?",
+    "answer": "The laser warning symbol indicates the presence of laser radiation."
+  },
+  {
+    "query": "What should be done if the AM400 build chamber atmosphere is not safe for operation?",
+    "answer": "Do not operate the AM400 until the atmosphere is confirmed to be safe."
+  },
+  {
+    "query": "Where should metal powder waste be disposed of after using the AM400?",
+    "answer": "Dispose of metal powder waste in accordance with local environmental and safety regulations."
+  },
+  {
+    "query": "What must be checked before starting maintenance on the AM400 electrical cabinet?",
+    "answer": "Ensure the system is powered down and locked out before starting maintenance on the electrical cabinet."
+  },
+  {
+    "query": "What is the recommended fire extinguisher for use with metal powder fires in the AM400?",
+    "answer": "Use a Class D fire extinguisher for metal powder fires."
+  },
+  {
+    "query": "How often should the chiller fluid in the AM400 system be replaced?",
+    "answer": "Replace the chiller fluid according to the maintenance schedule or if contamination is suspected."
+  },
+  {
+    "query": "What is the main purpose of the AM400 glove ports?",
+    "answer": "The glove ports allow safe handling of components and powders inside the build chamber."
+  },
+  {
+    "query": "How is the AM400 system powered off in an emergency?",
+    "answer": "Press the emergency stop button to immediately power off the AM400 system."
+  },
+  {
+    "query": "What should be done if the oxygen sensor in the AM400 system shows a high reading?",
+    "answer": "Stop operation and investigate the cause of the high oxygen level before resuming use."
+  },
+  {
+    "query": "Detail all required steps for preparing the AM400 for a new material, including powder removal, cleaning, safety checks, and record keeping.",
+    "answer": "To prepare the AM400 for a new material: (1) Completely empty the powder silo of the old powder, collecting all residual material. (2) Thoroughly clean the powder silo, build chamber, and all powder handling tools to remove all traces of the previous powder, following cleaning agent recommendations. (3) Inspect and clean the build platform and recoater mechanism. (4) Verify that all personal protective equipment is used during cleaning. (5) Dispose of old powder and cleaning waste according to regulations. (6) Refill the powder silo with the new material, ensuring no contamination. (7) Perform all safety checks, including interlock, oxygen level, and inert gas supply verification. (8) Log the material change, cleaning steps, and checks in the maintenance and material records."
+  },
+  {
+    "query": "What is the maximum recommended powder fill level for the AM400 powder silo?",
+    "answer": "The powder fill level should not exceed the maximum line indicated inside the powder silo."
+  },
+  {
+    "query": "How should the recoater blade in the AM400 be cleaned?",
+    "answer": "Clean the recoater blade using a lint-free cloth and isopropyl alcohol."
+  },
+  {
+    "query": "What safety feature prevents laser operation when the build chamber door is open?",
+    "answer": "An interlock system prevents laser operation when the door is open."
+  },
+  {
+    "query": "When should the filter in the AM400 ventilation system be replaced?",
+    "answer": "Replace the filter when indicated by the maintenance schedule or if reduced airflow is observed."
+  },
+  {
+    "query": "What personal protective equipment is required for powder handling in the AM400 system?",
+    "answer": "Wear gloves, laboratory coat, and safety goggles."
+  },
+  {
+    "query": "What is the function of the build platform in the AM400?",
+    "answer": "The build platform supports the part during printing and can be removed for part extraction."
+  },
+  {
+    "query": "What indicator shows that the AM400 is ready for operation?",
+    "answer": "The status display indicates when the system is ready for operation."
+  },
+  {
+    "query": "How is the metal powder level monitored during an AM400 print job?",
+    "answer": "The system displays the powder level and issues warnings if levels are too low."
+  },
+  {
+    "query": "What step is necessary before starting a new print job on the AM400?",
+    "answer": "Ensure the build platform is clean and installed, and the powder silo is adequately filled."
+  },
+  {
+    "query": "Explain the complete shutdown and post-processing workflow after a print job is finished, including chamber venting, powder recovery, part removal, cleaning, maintenance checks, and documentation.",
+    "answer": "After a print job, (1) vent the build chamber to atmospheric pressure. (2) Recover any unused powder from the powder silo and overflow container for reuse or disposal, following safety procedures. (3) Remove the build platform using the glove ports and approved tools. (4) Extract printed parts as instructed. (5) Clean the build chamber, recoater, and platform using approved agents and ensure all powder is removed. (6) Inspect key components for wear or damage. (7) Record maintenance, cleaning, and recovery activities in the maintenance log."
+  },
+  {
+    "query": "How should powder spills around the AM400 be handled?",
+    "answer": "Clean up spills immediately using appropriate tools and dispose of powder safely."
+  },
+  {
+    "query": "What type of gloves are recommended for handling hot parts from the AM400?",
+    "answer": "Use heat-resistant gloves when handling hot parts."
+  },
+  {
+    "query": "How can users check the status of the inert gas supply on the AM400?",
+    "answer": "Check the gas supply gauge or the system display for inert gas status."
+  },
+  {
+    "query": "What is the recommended action if the AM400 build fails to complete?",
+    "answer": "Stop the process, review the error messages, and consult the troubleshooting section."
+  },
+  {
+    "query": "What are the signs of insufficient powder supply in the AM400?",
+    "answer": "Warnings on the display and poor layer formation indicate insufficient powder supply."
+  },
+  {
+    "query": "How often should the AM400 build chamber be cleaned?",
+    "answer": "Clean the build chamber after each build or as specified in the maintenance schedule."
+  },
+  {
+    "query": "How is the AM400 chiller unit inspected for leaks?",
+    "answer": "Inspect the chiller and associated hoses for any signs of fluid leakage."
+  },
+  {
+    "query": "What are the recommended cleaning agents for AM400 windows and optics?",
+    "answer": "Use isopropyl alcohol and a lint-free cloth for cleaning windows and optics."
+  },
+  {
+    "query": "What is the first step before performing maintenance on the AM400 system?",
+    "answer": "Ensure the system is powered down and isolated from the mains."
+  },
+  {
+    "query": "Describe the step-by-step troubleshooting process if the AM400 system displays a fault during printing, covering display inspection, alarm acknowledgement, component checks, and escalation.",
+    "answer": "If the AM400 displays a fault: (1) Inspect the system display and note all error messages and alarm codes. (2) Acknowledge the alarms using the system interface. (3) Check the component or subsystem indicated by the alarm—this may include the laser, chiller, oxygen sensor, or powder feed system. (4) Refer to the troubleshooting section for each specific fault code and perform recommended checks or resets. (5) If the issue cannot be resolved with standard procedures, escalate to Renishaw technical support and provide full documentation of the error, actions taken, and component status."
+  },
+  {
+    "query": "What maintenance is required for the AM400 recoater mechanism?",
+    "answer": "Regularly clean and inspect the recoater mechanism for wear or damage."
+  },
+  {
+    "query": "What type of fluid should be used in the AM400 chiller?",
+    "answer": "Use the cooling fluid recommended by Renishaw for the chiller."
+  },
+  {
+    "query": "How are build platform alignment issues corrected on the AM400?",
+    "answer": "Follow the build platform alignment procedure detailed in the maintenance section."
+  },
+  {
+    "query": "What is the maximum build height of the AM400?",
+    "answer": "The maximum build height is specified in the technical data section."
+  },
+  {
+    "query": "What procedure should be followed if a powder bottle is damaged?",
+    "answer": "Isolate the area, contain the spill, and safely clean up the powder."
+  },
+  {
+    "query": "How can operators verify the laser is functioning correctly on the AM400?",
+    "answer": "Check the laser status indicators and review system diagnostics."
+  },
+  {
+    "query": "What action should be taken if the chiller fluid appears contaminated?",
+    "answer": "Replace the fluid and flush the chiller system as specified in maintenance instructions."
+  },
+  {
+    "query": "When should the AM400 powder silo be emptied?",
+    "answer": "Empty the powder silo when changing powder types or as part of scheduled maintenance."
+  },
+  {
+    "query": "What should be checked before starting the AM400 ventilation system?",
+    "answer": "Ensure filters are in place and the ventilation path is unobstructed."
+  },
+  {
+    "query": "Describe the procedure for replacing the recoater blade, including safety, removal, installation, calibration, and documentation steps.",
+    "answer": "To replace the recoater blade: (1) Power down and lock out the system. (2) Wear required personal protective equipment. (3) Access the recoater assembly and carefully remove the used blade with appropriate tools. (4) Install the new blade, ensuring correct orientation and fit. (5) Calibrate the recoater mechanism as specified in the maintenance section to ensure proper operation. (6) Record the replacement and calibration in the maintenance log before resuming use."
+  },
+  {
+    "query": "How are alarms on the AM400 system acknowledged and cleared?",
+    "answer": "Acknowledge alarms via the system display and address the underlying issue before clearing."
+  },
+  {
+    "query": "What does a yellow status indicator light mean on the AM400?",
+    "answer": "A yellow indicator typically signals a warning condition that should be investigated."
+  },
+  {
+    "query": "How often should the recoater blade be replaced on the AM400?",
+    "answer": "Replace the recoater blade according to wear or the schedule specified in the maintenance guide."
+  },
+  {
+    "query": "What steps should be taken to prevent powder contamination in the AM400?",
+    "answer": "Use only approved powders and keep containers closed when not in use."
+  },
+  {
+    "query": "How is the AM400’s oxygen sensor maintained?",
+    "answer": "Inspect and calibrate the oxygen sensor regularly as specified in the maintenance section."
+  },
+  {
+    "query": "How are the AM400 glove ports cleaned?",
+    "answer": "Wipe glove ports with a suitable cleaning agent and inspect for damage."
+  },
+  {
+    "query": "What is the recommended way to transport the AM400 machine?",
+    "answer": "Transport the machine according to Renishaw's shipping and handling instructions."
+  },
+  {
+    "query": "What should you do if you notice condensation inside the build chamber?",
+    "answer": "Stop operation and dry the chamber before resuming use."
+  },
+  {
+    "query": "How should damaged safety labels on the AM400 be handled?",
+    "answer": "Replace damaged labels immediately to maintain safety standards."
+  },
+  {
+    "query": "Detail the full process for a scheduled AM400 maintenance inspection, covering checks for powder system, laser, chiller, interlocks, software, documentation, and safety records.",
+    "answer": "For a scheduled maintenance inspection: (1) Inspect the powder silo and feed system for cleanliness, integrity, and correct powder type. (2) Check the recoater blade for wear and replace if needed. (3) Inspect the laser window and optics for contamination or damage; clean as necessary. (4) Verify the chiller fluid level and quality, inspecting hoses for leaks. (5) Test all interlock and safety systems. (6) Check system software for updates and ensure error logs are reviewed. (7) Confirm all maintenance and inspection activities are recorded in the appropriate documentation and safety logs. (8) Address any outstanding safety issues before returning the AM400 to service."
+  },
+  {
+    "query": "How often should the build chamber window be cleaned?",
+    "answer": "Clean the window after each build or as recommended by the maintenance schedule."
+  },
+  {
+    "query": "What safety checks should be performed before starting a print on the AM400?",
+    "answer": "Verify that all interlocks are functional and personal protective equipment is in use."
+  },
+  {
+    "query": "What procedure should be followed when changing to a different metal powder?",
+    "answer": "Empty and clean the powder silo before adding a different powder."
+  },
+  {
+    "query": "How should the AM400 be stored when not in use for an extended period?",
+    "answer": "Follow storage recommendations in the manual, including isolating power and covering the machine."
+  },
+  {
+    "query": "What is the recommended method for verifying the build chamber is inert?",
+    "answer": "Monitor the oxygen level display and ensure it is below the safe threshold."
+  },
+  {
+    "query": "How is the AM400 system started after being powered off for maintenance?",
+    "answer": "Follow the startup procedure as outlined in the operations section."
+  },
+  {
+    "query": "What maintenance is required for the AM400’s powder feed mechanism?",
+    "answer": "Regularly inspect, clean, and lubricate the powder feed mechanism."
+  },
+  {
+    "query": "What does a red indicator light mean on the AM400 system?",
+    "answer": "A red indicator means a fault condition requiring immediate attention."
+  },
+  {
+    "query": "What action is required if powder is found in the overflow container?",
+    "answer": "Empty and clean the overflow container safely and check for the cause of overflow."
+  },
+  {
+    "query": "List and explain all steps for safe recovery and reuse of unused metal powder after a print job, including safety checks, powder handling, sieving, storage, and record keeping.",
+    "answer": "For safe recovery and reuse: (1) Ensure the chamber is at atmospheric pressure and all personal protective equipment is worn. (2) Use only approved tools to collect residual powder from the build chamber, powder silo, and overflow container. (3) Sieve the recovered powder to remove any contaminants or agglomerates, using the designated sieving equipment. (4) Store the sieved powder in a clean, dry, and sealed container, labeled with material type and batch. (5) Record the recovery and sieving activities in the powder usage log. (6) Dispose of any contaminated or unsuitable powder according to local regulations."
+  },
+  {
+    "query": "What is the recommended frequency for full system inspections of the AM400?",
+    "answer": "Perform a full system inspection as scheduled in the maintenance section."
+  },
+  {
+    "query": "What action should be taken if the inert gas supply runs out during a print?",
+    "answer": "Pause the build and replenish the inert gas supply before continuing."
+  },
+  {
+    "query": "How are print parameters adjusted on the AM400?",
+    "answer": "Adjust print parameters via the system’s software interface."
+  },
+  {
+    "query": "What should operators do if the build platform cannot be removed after a print?",
+    "answer": "Refer to the troubleshooting guide and follow the steps for platform removal."
+  },
+  {
+    "query": "What is the primary purpose of the safety interlock system on the AM400?",
+    "answer": "The safety interlock prevents operation under unsafe conditions, such as when doors are open."
+  },
+  {
+    "query": "How can users access the AM400 maintenance logs?",
+    "answer": "Access maintenance logs through the system software or maintenance documentation."
+  },
+  {
+    "query": "What action should be taken if an unexpected shutdown occurs during operation?",
+    "answer": "Check the system for faults, review error messages, and follow the restart procedure."
+  },
+  {
+    "query": "What is the function of the AM400’s powder conveyor?",
+    "answer": "The powder conveyor moves metal powder into the build area as required."
+  },
+  {
+    "query": "How is the AM400’s cooling system monitored for proper operation?",
+    "answer": "Monitor fluid levels and system status indicators regularly."
+  },
+  {
+    "query": "Describe in detail the full emergency stop and restart procedure for the AM400, including immediate actions, system checks, restart steps, and follow-up safety checks.",
+    "answer": "To perform an emergency stop: (1) Press the emergency stop button to immediately cut power. (2) Wait for all moving parts to halt. (3) Inspect the system to identify the reason for the stop, checking error messages and system status. (4) Once the issue is resolved, reset the emergency stop button. (5) Follow the standard system startup procedure, including inert gas purge and oxygen monitoring. (6) Verify all safety systems and interlocks before resuming normal operation."
+  },
+  {
+    "query": "How are system software updates performed on the AM400?",
+    "answer": "Software updates are applied according to the instructions provided by Renishaw."
+  },
+  {
+    "query": "What are the main steps in the AM400 shutdown procedure?",
+    "answer": "Power down the system, vent the chamber, and follow the shutdown steps in the manual."
+  },
+  {
+    "query": "How can build data from the AM400 be exported?",
+    "answer": "Export build data using the system software’s data management tools."
+  },
+  {
+    "query": "What should be done if abnormal noise is heard from the recoater?",
+    "answer": "Stop the machine and inspect the recoater for damage or misalignment."
+  },
+  {
+    "query": "What is the recommended action if the status display is blank?",
+    "answer": "Check power connections and consult the troubleshooting guide."
+  },
+  {
+    "query": "How can the AM400 operator verify that the powder silo is empty?",
+    "answer": "Visually inspect the powder silo and use the system display to confirm the level."
+  },
+  {
+    "query": "What is the function of the gas flow regulator in the AM400?",
+    "answer": "The gas flow regulator controls the flow of inert gas to maintain a safe atmosphere."
+  },
+  {
+    "query": "How are cleaning records for the AM400 maintained?",
+    "answer": "Document cleaning activities in the maintenance log."
+  },
+  {
+    "query": "What is the primary method for diagnosing system faults on the AM400?",
+    "answer": "Use the system’s diagnostics and error messages to identify faults."
+  },
+  {
+    "query": "Explain the complete process for replacing the AM400 oxygen sensor, including shutdown, safe removal, installation, calibration, and documentation.",
+    "answer": "To replace the oxygen sensor: (1) Shut down and power off the system, ensuring the chamber is at atmospheric pressure. (2) Wear all required personal protective equipment. (3) Remove the faulty oxygen sensor following the instructions in the maintenance section. (4) Install the new sensor and check all connections. (5) Power on the system and calibrate the sensor as specified in the manual. (6) Record the replacement and calibration in the maintenance log. (7) Verify system readiness before returning to normal operation."
+  },
+  {
+    "query": "What action is necessary if the AM400’s oxygen sensor is not functioning?",
+    "answer": "Cease operation and repair or replace the sensor before resuming use."
+  },
+  {
+    "query": "How should the user handle residual powder after a print job?",
+    "answer": "Collect and store residual powder safely, following disposal guidelines if not reused."
+  },
+  {
+    "query": "What action should be taken if the build platform surface is damaged?",
+    "answer": "Repair or replace the build platform according to the maintenance instructions."
+  },
+  {
+    "query": "How is the laser window inspected on the AM400?",
+    "answer": "Inspect the laser window for contamination or damage and clean as needed."
+  },
+  {
+    "query": "What is the correct response to a system over-temperature alarm?",
+    "answer": "Stop operation and allow the system to cool before restarting."
+  },
+  {
+    "query": "How can a user check the system version of the AM400 software?",
+    "answer": "Check the system version in the software’s information menu."
+  },
+  {
+    "query": "How often should personal protective equipment be inspected when operating the AM400?",
+    "answer": "Inspect personal protective equipment before each use."
+  },
+  {
+    "query": "What steps should be taken if metal powder comes into contact with skin?",
+    "answer": "Wash the affected area with soap and water immediately."
+  },
+  {
+    "query": "What should be done if a system warning cannot be cleared on the AM400?",
+    "answer": "Contact Renishaw support or refer to the troubleshooting section."
+  },
+  {
+    "query": "Describe all steps for the annual safety and compliance audit of the AM400, including documentation review, physical inspection, personnel training, and regulatory requirements.",
+    "answer": "For the annual safety and compliance audit: (1) Review all maintenance, cleaning, and training records to ensure completeness. (2) Physically inspect the AM400 for safety label integrity, interlock function, emergency stop operation, and condition of all safety devices. (3) Ensure that all operators have completed up-to-date Renishaw-approved training. (4) Verify that storage and disposal of powders comply with local environmental and safety regulations. (5) Document the audit results, including any deficiencies and corrective actions, in the compliance log."
+  }
+]
+
