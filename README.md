@@ -123,4 +123,4 @@ MIT License. 本项目用于科研、教育与工业问答系统原型验证。
 - [BAAI bge](https://huggingface.co/BAAI)
 - [ZhipuAI API](https://open.bigmodel.cn/)
 - [Neo4j](https://neo4j.com/)
-- [MetalMind: A Knowledge Graph-Driven Human-Centric Knowledge System for Metal Additive Manufacturing]（Fan et al., 2025）
+- MetalMind: A Knowledge Graph-Driven Human-Centric Knowledge System for Metal Additive Manufacturing（Fan et al., 2025）(Under Review)
